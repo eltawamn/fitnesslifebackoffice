@@ -1,0 +1,19 @@
+.auth-page-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 48px;
+    min-height: 100vh;
+}
+
+.auth-form {
+    width: 100%;
+    min-width: 320px;
+    max-width: 400px;
+}
+
+.login-button {
+    margin: 12px 0 0 0;
+    width: 100%;
+}
